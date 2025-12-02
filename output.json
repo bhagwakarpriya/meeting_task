@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "task": "fix the critical log",
+    "assigned_to": "Sakshi",
+    "deadline": "tomorrow",
+    "priority": "Critical / High",
+    "reason": "Frontend task, blocking users"
+  },
+  {
+    "id": 2,
+    "task": "tackle",
+    "assigned_to": "Mohit",
+    "deadline": "end of this week",
+    "priority": "Medium",
+    "reason": "Backend expertise"
+  },
+  {
+    "id": 3,
+    "task": "update the api documentation",
+    "assigned_to": "Mohit",
+    "deadline": "friday",
+    "priority": "High",
+    "reason": "Backend expertise"
+  },
+  {
+    "id": 4,
+    "task": "design the new onboarding screens",
+    "assigned_to": "Arjun",
+    "deadline": "next monday",
+    "priority": "Medium",
+    "reason": "UI/UX task, relevant experience"
+  },
+  {
+    "id": 5,
+    "task": "write unit tests",
+    "assigned_to": "Lata",
+    "deadline": "wednesday",
+    "priority": "Medium",
+    "reason": "QA expertise, testing task"
+  }
+]
